@@ -1,7 +1,7 @@
 package test;
 
 public class Kkjn0131 {
-	public static void main(String[] args) {
+	public Kkjn0131() {
 		System.out.println("Hello, World!");
 	}
 }
