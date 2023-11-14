@@ -6,5 +6,6 @@ public class Kkjn0131 {
 		
 		System.out.println("test");
 		System.out.println("test");
+		System.out.println("new commit test");
 	}
 }
